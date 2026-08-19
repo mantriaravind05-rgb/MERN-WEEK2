@@ -1,0 +1,19 @@
+/* Product.module.css */
+.card {
+  border: 1px solid #ccc;
+  padding: 1rem;
+  margin: 1rem;
+  background: #f9f9f9;
+}
+
+.price {
+  color: green;
+  font-weight: bold;
+}
+
+/* TodoApp.module.css */
+.container {
+  max-width: 400px;
+  margin: auto;
+  text-align: center;
+}
